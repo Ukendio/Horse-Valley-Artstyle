@@ -16,14 +16,13 @@
 
 ## Organization
 - Exterior
-    //door
-    //roof
-    //walls
-    //misc
+    - door
+    - roof
+    - walls
+    - misc
 - Interior
-    //room1..=room[n]
-        //walls
-        //ceiling
-        //floor
+    - room1..=room[n]
+        -walls
+        -ceiling
+        -floor
 
-Note: Indention means child of index.
