@@ -8,7 +8,7 @@
 - Wall Height: 12
 - Wall Thickness: 0.25 wall
 - Wall Depth: 0.25x,
-- Floor height 0.2
+- Floor height 0.125
 - Floor dimension: (don't intersect with exterior walls),
 - Door height 8.5
 - Door side and top frames: 0.5
