@@ -23,9 +23,8 @@
 
 Below are two images illustrating the aforementioned point made:
 
-![Skärmbild 2022-01-14 113130](https://user-images.githubusercontent.com/68000848/149501563-ba259882-9593-4fb4-a78b-3042aa348c64.png)
-
-![image](https://user-images.githubusercontent.com/68000848/149501525-7d279962-af80-4b8c-a90b-74506925fe64.png)
+![Skärmbild 2022-01-14 114417](https://user-images.githubusercontent.com/68000848/149503097-dc11a090-98d0-4cc4-a89b-4eba77412277.png)
+![Skärmbild 2022-01-14 114226](https://user-images.githubusercontent.com/68000848/149503104-c8ceaee2-0846-4710-b714-577f9494bcc2.png)
 
 
 ## Organization
